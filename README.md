@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey there, I'm Shubham 👋
 
-<!--
-**ShubhamG-Shettigar/ShubhamG-Shettigar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☁️ L3 Support Engineer with 3 years of experience in the Kafka/Confluent ecosystem  
 
-Here are some ideas to get you started:
+⚙️ Interested in:
+- Backend Engineering
+- Distributed Systems
+- Apache Kafka
+- Python & FastAPI
+- Scalable Architectures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently exploring backend systems and documenting practical engineering learnings step-by-step.
+
+🚀 Learning by building, debugging and understanding systems deeply.
